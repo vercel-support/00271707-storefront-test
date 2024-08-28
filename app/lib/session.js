@@ -1,4 +1,4 @@
-import {createCookieSessionStorage} from '@shopify/remix-oxygen';
+import { createCookieSessionStorage } from '@vercel/remix';
 
 /**
  * This is a custom session implementation for your Hydrogen shop.
